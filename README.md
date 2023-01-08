@@ -10,7 +10,7 @@ Para utilizar esta API, necesitarás tener instalado MongoDB en tu sistema. Pued
 
 ## Endpoints
 
-### `GET /anuncios`
+### `GET /apiv1/anuncios`
 
 Obtiene una lista de anuncios.
 
